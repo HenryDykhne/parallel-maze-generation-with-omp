@@ -30,6 +30,7 @@ Compile with `make`.
 * `-p` will suppress printing of the maze if present.
 
 ## Sample output (Will be colored in RGBY if your terminal/monitor supports it)
+```
 centauri@centauri-ThinkPad-E570:~/Documents/cis3090a4$ ./mazep -n 55 -s 43
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 . 0 0 0 . 1 1 1 1 1 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 1 . 1 . 1 . 1 1 1 . 1 . 1 1 1 1 1 1 1 . 1 . 1 . 1 1 1 . 
@@ -90,3 +91,4 @@ Thread 0 claimed 462 neighbors.
 Thread 1 claimed 169 neighbors.
 Thread 2 claimed 39 neighbors.
 Thread 3 claimed 55 neighbors.
+```
