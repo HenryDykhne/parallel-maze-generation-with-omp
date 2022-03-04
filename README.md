@@ -1,6 +1,4 @@
 # parallel-maze-generation-with-omp
-Name: Eli-Henry Dykhne
-Student Number: 0996524
 
 # Operation
 ## Compilation
