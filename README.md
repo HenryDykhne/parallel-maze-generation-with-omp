@@ -1,4 +1,4 @@
-# cis3090a4
+# parallel-maze-generation-with-omp
 Name: Eli-Henry Dykhne
 Student Number: 0996524
 
@@ -31,7 +31,7 @@ Compile with `make`.
 
 ## Sample output (Will be colored in RGBY if your terminal/monitor supports it)
 ```
-centauri@centauri-ThinkPad-E570:~/Documents/cis3090a4$ ./mazep -n 55 -s 43
+computer:~/Documents/parallel-maze-generation-with-omp$ ./mazep -n 55 -s 43
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 . 0 0 0 . 1 1 1 1 1 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 1 . 1 . 1 . 1 1 1 . 1 . 1 1 1 1 1 1 1 . 1 . 1 . 1 1 1 . 
 . 0 . . . 1 . 1 . . . 1 . . . 1 . . . 1 . . . . . . . . . 1 . 1 . 1 . . . 1 . . . 1 . . . 1 . 1 . 1 . . . 1 . 
